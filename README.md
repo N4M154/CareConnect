@@ -6,7 +6,7 @@ Hey there! Welcome to the CareConnect,Medicare Management System. This is a Java
 ## Cool Features
 - **Patients**:
   - Create an account and log in
-  - Book and cancel appointments
+  - Book, view and  cancel appointments
   - View prescriptions and bills
   - Delete your account if needed
 
@@ -25,4 +25,7 @@ Hey there! Welcome to the CareConnect,Medicare Management System. This is a Java
 - Execute the SQL file
 - Enter your credentials of **Oracle** in the **DBConnection.java** class (username & password)
 - Add jar file in the project structure 
-
+# Contrbutors
+- [Namisa Najah Raisa](https://github.com/N4M154)
+- [Naifsa binte Ghulam Kibria](https://github.com/N-Kibria)
+- [Rifah Ramisa Ferdous](https://github.com/ramisaferdous)
