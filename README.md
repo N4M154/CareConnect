@@ -17,9 +17,12 @@ Hey there! Welcome to the CareConnect,Medicare Management System. This is a Java
   - Delete your account if needed
 
 ## What You Need
-- **Java Development Kit (JDK)** 8 or higher
+- **Java Development Kit (JDK)** 8 or higher [JDK](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html)
 - Oracle(connect with your username and password)
 - JDBC driver for the database you plan to use
-  
 
+## How to run
+- Execute the SQL file
+- Enter your credentials of **Oracle** in the **DBConnection.java** class (username & password)
+- Add jar file in the project structure 
 
